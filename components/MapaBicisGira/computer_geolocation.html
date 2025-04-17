@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Add multiple geometries from one GeoJSON source</title>
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+    <link href="https://api.mapbox.com/mapbox-gl-js/v2.7.0/mapbox-gl.css" rel="stylesheet">
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.7.0/mapbox-gl.js"></script>
+    <style>
+        #map {
+            height: 300px;
+            width: 400px;
+            margin: auto;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Mapa</h1>
+    <p>Exemplo de mapa MapBox com representação de ponto e polígono</p>
+    <div id="map"></div>
+    <p>Nota: para que o mapa não ocupe a totalidade da janela, deve-se especificar o tamanho do <code>div</code> com <code>id="map"</code> em largura e altura</p>
+
+    <script>
+        // TO MAKE THE MAP APPEAR YOU MUST
+        // ADD YOUR ACCESS TOKEN FROM
+        // https://account.mapbox.com
+        mapboxgl.accessToken = 'pk.eyJ1IjoibHVjaW8tc3R1ZGVyIiwiYSI6ImNsMDlraG05ZTAxN3gzam56eDVwc3o4enQifQ.WL9qChb0N0-WqvqS6QThjg';
+        const map = new mapboxgl.Map({
+            container: 'map',
+            style: 'mapbox://styles/mapbox/outdoors-v11',
+            center: [-9.204356, 38.698116],
+            zoom: 15
+        });
+
+        function addUserLocationToMap(position) {
+            const userCoordinates = [position.coords.longitude, position.coords.latitude];
+            map.setCenter(userCoordinates);
+
+            map.addSource('user-location', {
+                'type': 'geojson',
+                'data': {
+                    'type': 'FeatureCollection',
+                    'features': [
+                        {
+                            'type': 'Feature',
+                            'geometry': {
+                                'type': 'Point',
+                                'coordinates': userCoordinates
+                            }
+                        }
+                    ]
+                }
+            });
+
+            map.addLayer({
+                'id': 'user-location-point',
+                'type': 'circle',
+                'source': 'user-location',
+                'paint': {
+                    'circle-radius': 8,
+                    'circle-color': 'blue'
+                }
+            });
+        }
+
+        map.on('load', () => {
+            map.addSource('national-park', {
+                'type': 'geojson',
+                'data': {
+                    'type': 'FeatureCollection',
+                    'features': [
+                        {
+                            'type': 'Feature',
+                            'geometry': {
+                                'type': 'Polygon',
+                                'coordinates': [
+                                    [
+                                        [-9.203356, 38.697116],
+                                        [-9.205356, 38.697116],
+                                        [-9.205356, 38.699116],
+                                        [-9.203356, 38.699116],
+                                        [-9.203356, 38.697116],
+                                    ]
+                                ]
+                            }
+                        },
+                        {
+                            'type': 'Feature',
+                            'geometry': {
+                                'type': 'Point',
+                                'coordinates': [-9.204356, 38.698116]
+                            }
+                        }
+                    ]
+                }
+            });
+
+            map.addLayer({
+                'id': 'park-boundary',
+                'type': 'fill',
+                'source': 'national-park',
+                'paint': {
+                    'fill-color': 'red',
+                    'fill-opacity': 0.2
+                },
+                'filter': ['==', '$type', 'Polygon']
+            });
+
+            map.addLayer({
+                'id': 'park-volcanoes',
+                'type': 'circle',
+                'source': 'national-park',
+                'paint': {
+                    'circle-radius': 6,
+                    'circle-color': 'red'
+                },
+                'filter': ['==', '$type', 'Point']
+            });
+
+            if (navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(addUserLocationToMap, () => {
+                    alert('Unable to retrieve your location');
+                });
+            } else {
+                alert('Geolocation is not supported by this browser.');
+            }
+        });
+    </script>
+
+</body>
+
+</html>

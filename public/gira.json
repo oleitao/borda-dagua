@@ -1,0 +1,3609 @@
+{
+  "type": "FeatureCollection",
+  "totalFeatures": 163,
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.094672, 38.777589]
+        ]
+      },
+      "properties": {
+        "id_expl": "388",
+        "id_planeamento": "388",
+        "desig_comercial": "109 - Alameda dos Oceanos / Rua Ilha dos Amores",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 11,
+        "num_docas": 14,
+        "racio": 0.79,
+        "estado": "repair",
+        "update_date": "2023-04-20T01:45:45Z",
+        "bbox": [-9.094672, 38.777589, -9.094672, 38.777589],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.13608, 38.75784]
+        ]
+      },
+      "properties": {
+        "id_expl": "631",
+        "id_planeamento": "631",
+        "desig_comercial": "472 - Rua Marquês Soveral / ES Padre António Vieira",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 5,
+        "num_docas": 14,
+        "racio": 0.36,
+        "estado": "repair",
+        "update_date": "2024-06-02T11:26:01Z",
+        "bbox": [-9.13608, 38.75784, -9.13608, 38.75784],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.095416, 38.774505]
+        ]
+      },
+      "properties": {
+        "id_expl": "641",
+        "id_planeamento": "641",
+        "desig_comercial": "107 - Rotunda dos Vice-Reis",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 3,
+        "num_docas": 14,
+        "racio": 0.21,
+        "estado": "repair",
+        "update_date": "2024-06-01T21:11:28Z",
+        "bbox": [-9.095416, 38.774505, -9.095416, 38.774505],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.175234, 38.702936]
+        ]
+      },
+      "properties": {
+        "id_expl": "210",
+        "id_planeamento": "210",
+        "desig_comercial": "238 - Rua de Cascais / Alcântara Mar",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 0,
+        "num_docas": 0,
+        "racio": 0,
+        "estado": "repair",
+        "update_date": "2022-04-07T11:56:26Z",
+        "bbox": [-9.175234, 38.702936, -9.175234, 38.702936],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.14854, 38.72281]
+        ]
+      },
+      "properties": {
+        "id_expl": "306",
+        "id_planeamento": "306",
+        "desig_comercial": "306 - Avenida da Liberdade / Rua Alexandre Herculano",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 2,
+        "num_docas": 16,
+        "racio": 0.13,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:20Z",
+        "bbox": [-9.14854, 38.72281, -9.14854, 38.72281],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.165653, 38.717313]
+        ]
+      },
+      "properties": {
+        "id_expl": "351",
+        "id_planeamento": "351",
+        "desig_comercial": "352 - Rua Tomás da Anunciação / Rua Almeida e S.",
+        "tipo_servico_niveis": "",
+        "num_bicicletas": 0,
+        "num_docas": 17,
+        "racio": 0,
+        "estado": "repair",
+        "update_date": "2022-07-13T15:45:51Z",
+        "bbox": [-9.165653, 38.717313, -9.165653, 38.717313],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.130805, 38.733025]
+        ]
+      },
+      "properties": {
+        "id_expl": "324",
+        "id_planeamento": "324",
+        "desig_comercial": "324 - Rua Morais Soares / Largo Mendonça e Costa",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 0,
+        "num_docas": 12,
+        "racio": 0,
+        "estado": "repair",
+        "update_date": "2024-07-06T14:35:50Z",
+        "bbox": [-9.130805, 38.733025, -9.130805, 38.733025],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.136681, 38.747751]
+        ]
+      },
+      "properties": {
+        "id_expl": "452",
+        "id_planeamento": "452",
+        "desig_comercial": "452 - Rua Teixeira de Pascoais / Rua Dr. Gama Barros",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 4,
+        "num_docas": 10,
+        "racio": 0.4,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:08Z",
+        "bbox": [-9.136681, 38.747751, -9.136681, 38.747751],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.13956, 38.73811]
+        ]
+      },
+      "properties": {
+        "id_expl": "419",
+        "id_planeamento": "419",
+        "desig_comercial": "419 - Av. António José de Almeida / Instituto Superior Técnico",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 12,
+        "num_docas": 25,
+        "racio": 0.48,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:23Z",
+        "bbox": [-9.13956, 38.73811, -9.13956, 38.73811],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.128819, 38.722547]
+        ]
+      },
+      "properties": {
+        "id_expl": "331",
+        "id_planeamento": "331",
+        "desig_comercial": "331 - Avenida General Roçadas / Mercado de Sapadores",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 0,
+        "num_docas": 18,
+        "racio": 0,
+        "estado": "repair",
+        "update_date": "2024-07-06T14:35:50Z",
+        "bbox": [-9.128819, 38.722547, -9.128819, 38.722547],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.13827, 38.75482]
+        ]
+      },
+      "properties": {
+        "id_expl": "468",
+        "id_planeamento": "468",
+        "desig_comercial": "468 - Largo Frei Heitor Pinto",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 8,
+        "num_docas": 21,
+        "racio": 0.38,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:09Z",
+        "bbox": [-9.13827, 38.75482, -9.13827, 38.75482],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.14523, 38.743371]
+        ]
+      },
+      "properties": {
+        "id_expl": "442",
+        "id_planeamento": "442",
+        "desig_comercial": "442 - Campo Pequeno",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 10,
+        "num_docas": 16,
+        "racio": 0.63,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:10Z",
+        "bbox": [-9.14523, 38.743371, -9.14523, 38.743371],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.148443, 38.735188]
+        ]
+      },
+      "properties": {
+        "id_expl": "415",
+        "id_planeamento": "415",
+        "desig_comercial": "415 - Av. Duque de Ávila / Av. Conde Valbom",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 1,
+        "num_docas": 20,
+        "racio": 0.05,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:12Z",
+        "bbox": [-9.148443, 38.735188, -9.148443, 38.735188],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.141741, 38.751481]
+        ]
+      },
+      "properties": {
+        "id_expl": "459",
+        "id_planeamento": "459",
+        "desig_comercial": "459 - Rua Maria Amália Vaz de Carvalho / ES Rainha D. Leonor",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 8,
+        "num_docas": 20,
+        "racio": 0.4,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:14Z",
+        "bbox": [-9.141741, 38.751481, -9.141741, 38.751481],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.14742, 38.72894]
+        ]
+      },
+      "properties": {
+        "id_expl": "401",
+        "id_planeamento": "401",
+        "desig_comercial": "401 - Rua Martens Ferrão / Av. Fontes Pereira de Melo",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 10,
+        "num_docas": 16,
+        "racio": 0.63,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:26Z",
+        "bbox": [-9.14742, 38.72894, -9.14742, 38.72894],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.142703, 38.735352]
+        ]
+      },
+      "properties": {
+        "id_expl": "417",
+        "id_planeamento": "417",
+        "desig_comercial": "417 - Av. Duque de Ávila / Jardim Arco Do Cego",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 3,
+        "num_docas": 23,
+        "racio": 0.13,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:12Z",
+        "bbox": [-9.142703, 38.735352, -9.142703, 38.735352],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.152295, 38.737911]
+        ]
+      },
+      "properties": {
+        "id_expl": "423",
+        "id_planeamento": "423",
+        "desig_comercial": "423 - Av. Conde Valbom / Rua Marquês Sá da Bandeira",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 1,
+        "num_docas": 10,
+        "racio": 0.1,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:14Z",
+        "bbox": [-9.152295, 38.737911, -9.152295, 38.737911],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.17, 38.756]
+        ]
+      },
+      "properties": {
+        "id_expl": "485",
+        "id_planeamento": "485",
+        "desig_comercial": "485 - Rua Tomás da Fonseca / Rua António Albino Machado",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 3,
+        "num_docas": 10,
+        "racio": 0.3,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:19Z",
+        "bbox": [-9.17, 38.756, -9.17, 38.756],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.147, 38.72228]
+        ]
+      },
+      "properties": {
+        "id_expl": "305",
+        "id_planeamento": "305",
+        "desig_comercial": "305 - Avenida da Liberdade / Rua Barata Salgueiro",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 12,
+        "num_docas": 16,
+        "racio": 0.75,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:20Z",
+        "bbox": [-9.147, 38.72228, -9.147, 38.72228],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.17096, 38.76136]
+        ]
+      },
+      "properties": {
+        "id_expl": "487",
+        "id_planeamento": "487",
+        "desig_comercial": "487 - Rua Professor João Barreira",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 8,
+        "num_docas": 14,
+        "racio": 0.57,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:20Z",
+        "bbox": [-9.17096, 38.76136, -9.17096, 38.76136],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.16985, 38.75954]
+        ]
+      },
+      "properties": {
+        "id_expl": "486",
+        "id_planeamento": "486",
+        "desig_comercial": "486 - Rua Hermano Neves / Rua José Escada",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 4,
+        "num_docas": 14,
+        "racio": 0.29,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:21Z",
+        "bbox": [-9.16985, 38.75954, -9.16985, 38.75954],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.14199, 38.73937]
+        ]
+      },
+      "properties": {
+        "id_expl": "431",
+        "id_planeamento": "431",
+        "desig_comercial": "431 - Rua do Arco Cego / Av. Magalhães Lima",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 1,
+        "num_docas": 14,
+        "racio": 0.07,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:09Z",
+        "bbox": [-9.14199, 38.73937, -9.14199, 38.73937],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.13866, 38.74351]
+        ]
+      },
+      "properties": {
+        "id_expl": "443",
+        "id_planeamento": "443",
+        "desig_comercial": "443 - Av. de Roma / Fórum Lisboa",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 1,
+        "num_docas": 14,
+        "racio": 0.07,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:22Z",
+        "bbox": [-9.13866, 38.74351, -9.13866, 38.74351],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.132463, 38.707751]
+        ]
+      },
+      "properties": {
+        "id_expl": "211",
+        "id_planeamento": "211",
+        "desig_comercial": "211 - Doca da Marinha",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 6,
+        "num_docas": 40,
+        "racio": 0.15,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:46Z",
+        "bbox": [-9.132463, 38.707751, -9.132463, 38.707751],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.1546, 38.73448]
+        ]
+      },
+      "properties": {
+        "id_expl": "412",
+        "id_planeamento": "412",
+        "desig_comercial": "412 - Av. Ressano Garcia / Av. António Augusto de Aguiar",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 1,
+        "num_docas": 16,
+        "racio": 0.06,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:10Z",
+        "bbox": [-9.1546, 38.73448, -9.1546, 38.73448],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.17849, 38.76026]
+        ]
+      },
+      "properties": {
+        "id_expl": "490",
+        "id_planeamento": "490",
+        "desig_comercial": "490 - Rua Fernando Namora / Azinhaga da Torre do Fato",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 7,
+        "num_docas": 16,
+        "racio": 0.44,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:24Z",
+        "bbox": [-9.17849, 38.76026, -9.17849, 38.76026],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.094686, 38.777548]
+        ]
+      },
+      "properties": {
+        "id_expl": "109",
+        "id_planeamento": "109",
+        "desig_comercial": "109 - Alameda dos Oceanos / Rua Ilha dos Amores",
+        "tipo_servico_niveis": "",
+        "num_bicicletas": 8,
+        "num_docas": 14,
+        "racio": 0.57,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:47Z",
+        "bbox": [-9.094686, 38.777548, -9.094686, 38.777548],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.212149, 38.694155]
+        ]
+      },
+      "properties": {
+        "id_expl": "232",
+        "id_planeamento": "232",
+        "desig_comercial": "232 - Avenida da Índia / Centro de Arqueologia de Lisboa",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 0,
+        "num_docas": 22,
+        "racio": 0,
+        "estado": "repair",
+        "update_date": "2024-07-06T14:35:49Z",
+        "bbox": [-9.212149, 38.694155, -9.212149, 38.694155],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.14793, 38.739046]
+        ]
+      },
+      "properties": {
+        "id_expl": "426",
+        "id_planeamento": "426",
+        "desig_comercial": "426 - Av. Elias Garcia / Av. 5 de Outubro",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 1,
+        "num_docas": 14,
+        "racio": 0.07,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:11Z",
+        "bbox": [-9.14793, 38.739046, -9.14793, 38.739046],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.111596, 38.76134]
+        ]
+      },
+      "properties": {
+        "id_expl": "139",
+        "id_planeamento": "139",
+        "desig_comercial": "139 - Rua Cidade de Bissau (Metro Olivais)",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 4,
+        "num_docas": 25,
+        "racio": 0.16,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:36Z",
+        "bbox": [-9.111596, 38.76134, -9.111596, 38.76134],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.150085, 38.746836]
+        ]
+      },
+      "properties": {
+        "id_expl": "449",
+        "id_planeamento": "449",
+        "desig_comercial": "449 - Av. 5 de Outubro / Rua da Cruz Vermelha",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 2,
+        "num_docas": 14,
+        "racio": 0.14,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:11Z",
+        "bbox": [-9.150085, 38.746836, -9.150085, 38.746836],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.136968, 38.731264]
+        ]
+      },
+      "properties": {
+        "id_expl": "315",
+        "id_planeamento": "315",
+        "desig_comercial": "315 - Rua Passos Manuel/ Jardim Constantino",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 0,
+        "num_docas": 20,
+        "racio": 0,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:37Z",
+        "bbox": [-9.136968, 38.731264, -9.136968, 38.731264],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.182513, 38.766995]
+        ]
+      },
+      "properties": {
+        "id_expl": "520",
+        "id_planeamento": "520",
+        "desig_comercial": "520 - Lispolis",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 6,
+        "num_docas": 23,
+        "racio": 0.26,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:45Z",
+        "bbox": [-9.182513, 38.766995, -9.182513, 38.766995],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.143854, 38.746268]
+        ]
+      },
+      "properties": {
+        "id_expl": "450",
+        "id_planeamento": "450",
+        "desig_comercial": "450 - Rua Alfredo Cortês",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 2,
+        "num_docas": 15,
+        "racio": 0.13,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:49Z",
+        "bbox": [-9.143854, 38.746268, -9.143854, 38.746268],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.214902, 38.694942]
+        ]
+      },
+      "properties": {
+        "id_expl": "241",
+        "id_planeamento": "241",
+        "desig_comercial": "241 - Largo Luís Alves Miguel / Rua Fernão Mendes Pinto",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 0,
+        "num_docas": 11,
+        "racio": 0,
+        "estado": "repair",
+        "update_date": "2024-07-06T14:35:49Z",
+        "bbox": [-9.214902, 38.694942, -9.214902, 38.694942],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.166955, 38.740579]
+        ]
+      },
+      "properties": {
+        "id_expl": "435",
+        "id_planeamento": "435",
+        "desig_comercial": "435 - Interface de Sete Rios",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 17,
+        "num_docas": 43,
+        "racio": 0.4,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:46Z",
+        "bbox": [-9.166955, 38.740579, -9.166955, 38.740579],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.141466, 38.705954]
+        ]
+      },
+      "properties": {
+        "id_expl": "209",
+        "id_planeamento": "209",
+        "desig_comercial": "209 - Ribeira das Naus",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 9,
+        "num_docas": 27,
+        "racio": 0.33,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:46Z",
+        "bbox": [-9.141466, 38.705954, -9.141466, 38.705954],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.196294, 38.753789]
+        ]
+      },
+      "properties": {
+        "id_expl": "511",
+        "id_planeamento": "511",
+        "desig_comercial": "511 - Avenida do Uruguai",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 1,
+        "num_docas": 27,
+        "racio": 0.04,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:48Z",
+        "bbox": [-9.196294, 38.753789, -9.196294, 38.753789],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.105308, 38.731578]
+        ]
+      },
+      "properties": {
+        "id_expl": "281",
+        "id_planeamento": "281",
+        "desig_comercial": "281 - HUB Criativo do Beato Nascente",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 9,
+        "num_docas": 26,
+        "racio": 0.35,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:48Z",
+        "bbox": [-9.105308, 38.731578, -9.105308, 38.731578],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.178764, 38.74266]
+        ]
+      },
+      "properties": {
+        "id_expl": "503",
+        "id_planeamento": "503",
+        "desig_comercial": "503 - Rua Conde de Almoster / Rua Carlos Pereira",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 0,
+        "num_docas": 12,
+        "racio": 0,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:48Z",
+        "bbox": [-9.178764, 38.74266, -9.178764, 38.74266],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.096222, 38.768548]
+        ]
+      },
+      "properties": {
+        "id_expl": "105",
+        "id_planeamento": "105",
+        "desig_comercial": "105 - CC Vasco da Gama",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 21,
+        "num_docas": 40,
+        "racio": 0.53,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:06Z",
+        "bbox": [-9.096222, 38.768548, -9.096222, 38.768548],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.096439, 38.759156]
+        ]
+      },
+      "properties": {
+        "id_expl": "102",
+        "id_planeamento": "102",
+        "desig_comercial": "102 - Porta do Mar",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 8,
+        "num_docas": 14,
+        "racio": 0.57,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:07Z",
+        "bbox": [-9.096439, 38.759156, -9.096439, 38.759156],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.092506, 38.769459]
+        ]
+      },
+      "properties": {
+        "id_expl": "106",
+        "id_planeamento": "106",
+        "desig_comercial": "106 - Jardim Garcia da Orta",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 12,
+        "num_docas": 14,
+        "racio": 0.86,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:07Z",
+        "bbox": [-9.092506, 38.769459, -9.092506, 38.769459],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.097322, 38.766716]
+        ]
+      },
+      "properties": {
+        "id_expl": "104",
+        "id_planeamento": "104",
+        "desig_comercial": "104 - Gare do Oriente",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 20,
+        "num_docas": 40,
+        "racio": 0.5,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:06Z",
+        "bbox": [-9.097322, 38.766716, -9.097322, 38.766716],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.095416, 38.774505]
+        ]
+      },
+      "properties": {
+        "id_expl": "107",
+        "id_planeamento": "107",
+        "desig_comercial": "107 - Rotunda dos Vice-Reis",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 11,
+        "num_docas": 14,
+        "racio": 0.79,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:07Z",
+        "bbox": [-9.095416, 38.774505, -9.095416, 38.774505],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.09235, 38.774289]
+        ]
+      },
+      "properties": {
+        "id_expl": "108",
+        "id_planeamento": "108",
+        "desig_comercial": "108 - Rua do Bojador",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 12,
+        "num_docas": 14,
+        "racio": 0.86,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:08Z",
+        "bbox": [-9.09235, 38.774289, -9.09235, 38.774289],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.096804, 38.756161]
+        ]
+      },
+      "properties": {
+        "id_expl": "101",
+        "id_planeamento": "101",
+        "desig_comercial": "101 - Alameda dos Oceanos / Rua dos Argonautas",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 16,
+        "num_docas": 16,
+        "racio": 1,
+        "estado": "repair",
+        "update_date": "2024-07-06T14:35:49Z",
+        "bbox": [-9.096804, 38.756161, -9.096804, 38.756161],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.095019, 38.761218]
+        ]
+      },
+      "properties": {
+        "id_expl": "103",
+        "id_planeamento": "103",
+        "desig_comercial": "103 - Jardim da Água",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 17,
+        "num_docas": 20,
+        "racio": 0.85,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:07Z",
+        "bbox": [-9.095019, 38.761218, -9.095019, 38.761218],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.156169, 38.758207]
+        ]
+      },
+      "properties": {
+        "id_expl": "481",
+        "id_planeamento": "481",
+        "desig_comercial": "481 - Campo Grande / Museu da Cidade",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 2,
+        "num_docas": 20,
+        "racio": 0.1,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:09Z",
+        "bbox": [-9.156169, 38.758207, -9.156169, 38.758207],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.14329, 38.74081]
+        ]
+      },
+      "properties": {
+        "id_expl": "430",
+        "id_planeamento": "430",
+        "desig_comercial": "430 - Av. Barbosa Du Bocage / Rua Arco do Cego",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 4,
+        "num_docas": 20,
+        "racio": 0.2,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:11Z",
+        "bbox": [-9.14329, 38.74081, -9.14329, 38.74081],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.097068, 38.778466]
+        ]
+      },
+      "properties": {
+        "id_expl": "110",
+        "id_planeamento": "110",
+        "desig_comercial": "110 - Rua de Moscavide",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 7,
+        "num_docas": 18,
+        "racio": 0.39,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:08Z",
+        "bbox": [-9.097068, 38.778466, -9.097068, 38.778466],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.148427, 38.75165]
+        ]
+      },
+      "properties": {
+        "id_expl": "464",
+        "id_planeamento": "464",
+        "desig_comercial": "464 - Av. da Igreja / Rua Afonso Lopes Vieira",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 7,
+        "num_docas": 14,
+        "racio": 0.5,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:09Z",
+        "bbox": [-9.148427, 38.75165, -9.148427, 38.75165],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.151, 38.735]
+        ]
+      },
+      "properties": {
+        "id_expl": "414",
+        "id_planeamento": "414",
+        "desig_comercial": "414 - Av. Duque de Ávila / Rua Pinheiro Chagas",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 3,
+        "num_docas": 19,
+        "racio": 0.16,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:09Z",
+        "bbox": [-9.151, 38.735, -9.151, 38.735],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.13749, 38.75176]
+        ]
+      },
+      "properties": {
+        "id_expl": "460",
+        "id_planeamento": "460",
+        "desig_comercial": "460 - Av. Rio de Janeiro / Parque de Jogos 1º de Maio",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 5,
+        "num_docas": 15,
+        "racio": 0.33,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:11Z",
+        "bbox": [-9.13749, 38.75176, -9.13749, 38.75176],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.14207, 38.74873]
+        ]
+      },
+      "properties": {
+        "id_expl": "453",
+        "id_planeamento": "453",
+        "desig_comercial": "453 - Av. Roma / Av. EUA",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 8,
+        "num_docas": 14,
+        "racio": 0.57,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:13Z",
+        "bbox": [-9.14207, 38.74873, -9.14207, 38.74873],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.13694, 38.71526]
+        ]
+      },
+      "properties": {
+        "id_expl": "225",
+        "id_planeamento": "225",
+        "desig_comercial": "225 - Martim Moniz",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 2,
+        "num_docas": 16,
+        "racio": 0.13,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:23Z",
+        "bbox": [-9.13694, 38.71526, -9.13694, 38.71526],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.14722, 38.74975]
+        ]
+      },
+      "properties": {
+        "id_expl": "457",
+        "id_planeamento": "457",
+        "desig_comercial": "457 - Rua Aboim Ascensão",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 1,
+        "num_docas": 10,
+        "racio": 0.1,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:08Z",
+        "bbox": [-9.14722, 38.74975, -9.14722, 38.74975],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.15425, 38.73432]
+        ]
+      },
+      "properties": {
+        "id_expl": "413",
+        "id_planeamento": "413",
+        "desig_comercial": "413 - Av. Ressano Garcia / Av. António Augusto de Aguiar",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 3,
+        "num_docas": 10,
+        "racio": 0.3,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:13Z",
+        "bbox": [-9.15425, 38.73432, -9.15425, 38.73432],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.14951, 38.75243]
+        ]
+      },
+      "properties": {
+        "id_expl": "463",
+        "id_planeamento": "463",
+        "desig_comercial": "463 - Campo Grande / Av. da Igreja",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 10,
+        "num_docas": 10,
+        "racio": 1,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:15Z",
+        "bbox": [-9.14951, 38.75243, -9.14951, 38.75243],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.14471, 38.70617]
+        ]
+      },
+      "properties": {
+        "id_expl": "218",
+        "id_planeamento": "218",
+        "desig_comercial": "218 - Cais do Sodré",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 15,
+        "num_docas": 22,
+        "racio": 0.68,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:25Z",
+        "bbox": [-9.14471, 38.70617, -9.14471, 38.70617],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.13608, 38.75784]
+        ]
+      },
+      "properties": {
+        "id_expl": "472",
+        "id_planeamento": "472",
+        "desig_comercial": "472 - Rua Marquês Soveral / ES Padre António Vieira",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 4,
+        "num_docas": 14,
+        "racio": 0.29,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:12Z",
+        "bbox": [-9.13608, 38.75784, -9.13608, 38.75784],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.14697, 38.75643]
+        ]
+      },
+      "properties": {
+        "id_expl": "473",
+        "id_planeamento": "473",
+        "desig_comercial": "473 - Av. do Brasil / Av. de Roma",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 3,
+        "num_docas": 14,
+        "racio": 0.21,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:14Z",
+        "bbox": [-9.14697, 38.75643, -9.14697, 38.75643],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.14655, 38.70663]
+        ]
+      },
+      "properties": {
+        "id_expl": "216",
+        "id_planeamento": "216",
+        "desig_comercial": "216 - Praça D. Luís I",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 7,
+        "num_docas": 21,
+        "racio": 0.33,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:25Z",
+        "bbox": [-9.14655, 38.70663, -9.14655, 38.70663],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.1409, 38.75832]
+        ]
+      },
+      "properties": {
+        "id_expl": "474",
+        "id_planeamento": "474",
+        "desig_comercial": "474 - Av. do Brasil / Av. Rio de Janeiro",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 2,
+        "num_docas": 15,
+        "racio": 0.13,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:15Z",
+        "bbox": [-9.1409, 38.75832, -9.1409, 38.75832],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.13409, 38.74095]
+        ]
+      },
+      "properties": {
+        "id_expl": "433",
+        "id_planeamento": "433",
+        "desig_comercial": "433 - Av. Paris / Av. Almirante Reis",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 7,
+        "num_docas": 14,
+        "racio": 0.5,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:26Z",
+        "bbox": [-9.13409, 38.74095, -9.13409, 38.74095],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.157335, 38.766075]
+        ]
+      },
+      "properties": {
+        "id_expl": "552",
+        "id_planeamento": "552",
+        "desig_comercial": "552 - Alameda das Linhas de Torres / Hospital Puli",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 9,
+        "num_docas": 12,
+        "racio": 0.75,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:33Z",
+        "bbox": [-9.157335, 38.766075, -9.157335, 38.766075],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.14446, 38.73434]
+        ]
+      },
+      "properties": {
+        "id_expl": "407",
+        "id_planeamento": "407",
+        "desig_comercial": "407 - Praça Duque de Saldanha",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 8,
+        "num_docas": 17,
+        "racio": 0.47,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:15Z",
+        "bbox": [-9.14446, 38.73434, -9.14446, 38.73434],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.14242, 38.71702]
+        ]
+      },
+      "properties": {
+        "id_expl": "301",
+        "id_planeamento": "301",
+        "desig_comercial": "301 - Avenida da Liberdade / Restauradores",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 5,
+        "num_docas": 21,
+        "racio": 0.24,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:27Z",
+        "bbox": [-9.14242, 38.71702, -9.14242, 38.71702],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.144117, 38.733749]
+        ]
+      },
+      "properties": {
+        "id_expl": "408",
+        "id_planeamento": "408",
+        "desig_comercial": "408 - Praça Duque de Saldanha",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 0,
+        "num_docas": 10,
+        "racio": 0,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:15Z",
+        "bbox": [-9.144117, 38.733749, -9.144117, 38.733749],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.17502, 38.70141]
+        ]
+      },
+      "properties": {
+        "id_expl": "206",
+        "id_planeamento": "206",
+        "desig_comercial": "206 - Av. Brasília / Doca de Alcântara",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 16,
+        "num_docas": 22,
+        "racio": 0.73,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:29Z",
+        "bbox": [-9.17502, 38.70141, -9.17502, 38.70141],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.145341, 38.734247]
+        ]
+      },
+      "properties": {
+        "id_expl": "406",
+        "id_planeamento": "406",
+        "desig_comercial": "406 - Praça Duque de Saldanha",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 10,
+        "num_docas": 17,
+        "racio": 0.59,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:16Z",
+        "bbox": [-9.145341, 38.734247, -9.145341, 38.734247],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.122548, 38.713416]
+        ]
+      },
+      "properties": {
+        "id_expl": "213",
+        "id_planeamento": "213",
+        "desig_comercial": "213 - Av. Infante Dom Henrique / Santa Apolónia",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 13,
+        "num_docas": 32,
+        "racio": 0.41,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:29Z",
+        "bbox": [-9.122548, 38.713416, -9.122548, 38.713416],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.14684, 38.74047]
+        ]
+      },
+      "properties": {
+        "id_expl": "428",
+        "id_planeamento": "428",
+        "desig_comercial": "428 - Av. República / Avenida Barbosa Du Bocage",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 2,
+        "num_docas": 12,
+        "racio": 0.17,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:16Z",
+        "bbox": [-9.14684, 38.74047, -9.14684, 38.74047],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.15907, 38.75115]
+        ]
+      },
+      "properties": {
+        "id_expl": "475",
+        "id_planeamento": "475",
+        "desig_comercial": "475 - Av. Professor Gama Pinto / Cantina Velha",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 7,
+        "num_docas": 41,
+        "racio": 0.17,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:29Z",
+        "bbox": [-9.15907, 38.75115, -9.15907, 38.75115],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.14617, 38.73812]
+        ]
+      },
+      "properties": {
+        "id_expl": "427",
+        "id_planeamento": "427",
+        "desig_comercial": "427 - Av. República / Av. Visconde Valmor",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 2,
+        "num_docas": 12,
+        "racio": 0.17,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:16Z",
+        "bbox": [-9.14617, 38.73812, -9.14617, 38.73812],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.155564, 38.749141]
+        ]
+      },
+      "properties": {
+        "id_expl": "461",
+        "id_planeamento": "461",
+        "desig_comercial": "461 - Rua Professora Teresa Ambrósio",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 1,
+        "num_docas": 32,
+        "racio": 0.03,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:30Z",
+        "bbox": [-9.155564, 38.749141, -9.155564, 38.749141],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.14773, 38.74456]
+        ]
+      },
+      "properties": {
+        "id_expl": "446",
+        "id_planeamento": "446",
+        "desig_comercial": "446 - Av. República / Interface Entrecampos ",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 27,
+        "num_docas": 40,
+        "racio": 0.68,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:17Z",
+        "bbox": [-9.14773, 38.74456, -9.14773, 38.74456],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.15885, 38.75231]
+        ]
+      },
+      "properties": {
+        "id_expl": "476",
+        "id_planeamento": "476",
+        "desig_comercial": "476 - Av. Professor Gama Pinto / Reitoria",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 10,
+        "num_docas": 23,
+        "racio": 0.43,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:30Z",
+        "bbox": [-9.15885, 38.75231, -9.15885, 38.75231],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.146522, 38.731698]
+        ]
+      },
+      "properties": {
+        "id_expl": "403",
+        "id_planeamento": "403",
+        "desig_comercial": "403 - Av. Fontes Pereira de Melo",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 11,
+        "num_docas": 20,
+        "racio": 0.55,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:17Z",
+        "bbox": [-9.146522, 38.731698, -9.146522, 38.731698],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.15717, 38.75359]
+        ]
+      },
+      "properties": {
+        "id_expl": "478",
+        "id_planeamento": "478",
+        "desig_comercial": "478 - Alameda da Universidade / Faculdade de Letras",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 0,
+        "num_docas": 32,
+        "racio": 0,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:31Z",
+        "bbox": [-9.15717, 38.75359, -9.15717, 38.75359],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.14553, 38.735304]
+        ]
+      },
+      "properties": {
+        "id_expl": "416",
+        "id_planeamento": "416",
+        "desig_comercial": "416 - Av. República / Avenida Duque de Ávila",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 4,
+        "num_docas": 16,
+        "racio": 0.25,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:17Z",
+        "bbox": [-9.14553, 38.735304, -9.14553, 38.735304],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.15671, 38.75264]
+        ]
+      },
+      "properties": {
+        "id_expl": "477",
+        "id_planeamento": "477",
+        "desig_comercial": "477 - Alameda da Universidade / Faculdade de Direito",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 6,
+        "num_docas": 24,
+        "racio": 0.25,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:31Z",
+        "bbox": [-9.15671, 38.75264, -9.15671, 38.75264],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.137337, 38.756487]
+        ]
+      },
+      "properties": {
+        "id_expl": "471",
+        "id_planeamento": "471",
+        "desig_comercial": "471 - Rua Lopes de Mendonça / EB São João de Brito",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 5,
+        "num_docas": 10,
+        "racio": 0.5,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:17Z",
+        "bbox": [-9.137337, 38.756487, -9.137337, 38.756487],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.11255, 38.76829]
+        ]
+      },
+      "properties": {
+        "id_expl": "132",
+        "id_planeamento": "132",
+        "desig_comercial": "132 - Avenida de Berlim / Rua Cidade de Cabinda",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 3,
+        "num_docas": 25,
+        "racio": 0.12,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:32Z",
+        "bbox": [-9.11255, 38.76829, -9.11255, 38.76829],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.09781, 38.793]
+        ]
+      },
+      "properties": {
+        "id_expl": "115",
+        "id_planeamento": "115",
+        "desig_comercial": "115 - Passeio dos Heróis do Mar / Rua Capitão Cook",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 19,
+        "num_docas": 29,
+        "racio": 0.66,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:17Z",
+        "bbox": [-9.09781, 38.793, -9.09781, 38.793],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.110724, 38.76503]
+        ]
+      },
+      "properties": {
+        "id_expl": "133",
+        "id_planeamento": "133",
+        "desig_comercial": "133 - Rua Cidade de Benguela / Avenida Cidade de L",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 3,
+        "num_docas": 18,
+        "racio": 0.17,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:33Z",
+        "bbox": [-9.110724, 38.76503, -9.110724, 38.76503],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.13416, 38.73736]
+        ]
+      },
+      "properties": {
+        "id_expl": "421",
+        "id_planeamento": "421",
+        "desig_comercial": "421 - Alameda D. Afonso Henriques",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 5,
+        "num_docas": 20,
+        "racio": 0.25,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:18Z",
+        "bbox": [-9.13416, 38.73736, -9.13416, 38.73736],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.156487, 38.760871]
+        ]
+      },
+      "properties": {
+        "id_expl": "550",
+        "id_planeamento": "550",
+        "desig_comercial": "550 - Rua Fernando Curado Ribeiro / Alameda das Li",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 5,
+        "num_docas": 20,
+        "racio": 0.25,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:33Z",
+        "bbox": [-9.156487, 38.760871, -9.156487, 38.760871],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.13672, 38.73617]
+        ]
+      },
+      "properties": {
+        "id_expl": "420",
+        "id_planeamento": "420",
+        "desig_comercial": "420 - Av. Rovisco Pais / Av. Manuel da Maia",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 6,
+        "num_docas": 26,
+        "racio": 0.23,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:18Z",
+        "bbox": [-9.13672, 38.73617, -9.13672, 38.73617],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.161462, 38.773489]
+        ]
+      },
+      "properties": {
+        "id_expl": "556",
+        "id_planeamento": "556",
+        "desig_comercial": "556 - Alamedas das Linhas de Torres / Estrada da T",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 1,
+        "num_docas": 11,
+        "racio": 0.09,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:34Z",
+        "bbox": [-9.161462, 38.773489, -9.161462, 38.773489],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.16658, 38.76081]
+        ]
+      },
+      "properties": {
+        "id_expl": "484",
+        "id_planeamento": "484",
+        "desig_comercial": "484 - Rua Professor Vieira de Almeida",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 9,
+        "num_docas": 22,
+        "racio": 0.41,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:18Z",
+        "bbox": [-9.16658, 38.76081, -9.16658, 38.76081],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.138952, 38.713112]
+        ]
+      },
+      "properties": {
+        "id_expl": "223",
+        "id_planeamento": "223",
+        "desig_comercial": "223 - Praça do Rossio",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 20,
+        "num_docas": 21,
+        "racio": 0.95,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:35Z",
+        "bbox": [-9.138952, 38.713112, -9.138952, 38.713112],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.13577, 38.71901]
+        ]
+      },
+      "properties": {
+        "id_expl": "309",
+        "id_planeamento": "309",
+        "desig_comercial": "309 - Rua da Palma",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 5,
+        "num_docas": 10,
+        "racio": 0.5,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:19Z",
+        "bbox": [-9.13577, 38.71901, -9.13577, 38.71901],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.135675, 38.729657]
+        ]
+      },
+      "properties": {
+        "id_expl": "314",
+        "id_planeamento": "314",
+        "desig_comercial": "314 - Rua Marques da Silva / Rua António Pedro",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 1,
+        "num_docas": 12,
+        "racio": 0.08,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:37Z",
+        "bbox": [-9.135675, 38.729657, -9.135675, 38.729657],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.13951, 38.70797]
+        ]
+      },
+      "properties": {
+        "id_expl": "219",
+        "id_planeamento": "219",
+        "desig_comercial": "219 - Praça do Município",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 22,
+        "num_docas": 22,
+        "racio": 1,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:19Z",
+        "bbox": [-9.13951, 38.70797, -9.13951, 38.70797],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.135356, 38.731424]
+        ]
+      },
+      "properties": {
+        "id_expl": "316",
+        "id_planeamento": "316",
+        "desig_comercial": "316 - Rua António Pedro / Rua Pascoal de Melo",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 1,
+        "num_docas": 14,
+        "racio": 0.07,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:37Z",
+        "bbox": [-9.135356, 38.731424, -9.135356, 38.731424],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.14637, 38.72026]
+        ]
+      },
+      "properties": {
+        "id_expl": "304",
+        "id_planeamento": "304",
+        "desig_comercial": "304 - Avenida da Liberdade / São Jorge",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 9,
+        "num_docas": 16,
+        "racio": 0.56,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:19Z",
+        "bbox": [-9.14637, 38.72026, -9.14637, 38.72026],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.108728, 38.770434]
+        ]
+      },
+      "properties": {
+        "id_expl": "151",
+        "id_planeamento": "151",
+        "desig_comercial": "151 - Rua Contra Almirante Ferraz / Escola Sec.António Damásio",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 10,
+        "num_docas": 24,
+        "racio": 0.42,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:38Z",
+        "bbox": [-9.108728, 38.770434, -9.108728, 38.770434],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.17526, 38.76014]
+        ]
+      },
+      "properties": {
+        "id_expl": "488",
+        "id_planeamento": "488",
+        "desig_comercial": "488 - Rua Fernando Namora / Rua António Quadros",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 5,
+        "num_docas": 20,
+        "racio": 0.25,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:21Z",
+        "bbox": [-9.17526, 38.76014, -9.17526, 38.76014],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.106858, 38.767761]
+        ]
+      },
+      "properties": {
+        "id_expl": "130",
+        "id_planeamento": "130",
+        "desig_comercial": "130 - Avenida Berlim / Rua Américo Jesus Fernandes",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 10,
+        "num_docas": 20,
+        "racio": 0.5,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:39Z",
+        "bbox": [-9.106858, 38.767761, -9.106858, 38.767761],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.14969, 38.7246]
+        ]
+      },
+      "properties": {
+        "id_expl": "308",
+        "id_planeamento": "308",
+        "desig_comercial": "308 - Marquês de Pombal",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 4,
+        "num_docas": 11,
+        "racio": 0.36,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:22Z",
+        "bbox": [-9.14969, 38.7246, -9.14969, 38.7246],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.157531, 38.729724]
+        ]
+      },
+      "properties": {
+        "id_expl": "365",
+        "id_planeamento": "365",
+        "desig_comercial": "365 - Rua Castilho / Rua Marquês da Fronteira",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 6,
+        "num_docas": 30,
+        "racio": 0.2,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:40Z",
+        "bbox": [-9.157531, 38.729724, -9.157531, 38.729724],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.09974, 38.78836]
+        ]
+      },
+      "properties": {
+        "id_expl": "114",
+        "id_planeamento": "114",
+        "desig_comercial": "114 - Via do Oriente",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 6,
+        "num_docas": 10,
+        "racio": 0.6,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:22Z",
+        "bbox": [-9.09974, 38.78836, -9.09974, 38.78836],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.200039, 38.74473]
+        ]
+      },
+      "properties": {
+        "id_expl": "508",
+        "id_planeamento": "508",
+        "desig_comercial": "508 - Estação de Comboios de Benfica",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 5,
+        "num_docas": 23,
+        "racio": 0.22,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:41Z",
+        "bbox": [-9.200039, 38.74473, -9.200039, 38.74473],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.13651, 38.71498]
+        ]
+      },
+      "properties": {
+        "id_expl": "224",
+        "id_planeamento": "224",
+        "desig_comercial": "224 - Martim Moniz",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 18,
+        "num_docas": 22,
+        "racio": 0.82,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:23Z",
+        "bbox": [-9.13651, 38.71498, -9.13651, 38.71498],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.189058, 38.752892]
+        ]
+      },
+      "properties": {
+        "id_expl": "510",
+        "id_planeamento": "510",
+        "desig_comercial": "510 - Largo da Revista Militar / Avenida do Colégio Militar",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 1,
+        "num_docas": 17,
+        "racio": 0.06,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:41Z",
+        "bbox": [-9.189058, 38.752892, -9.189058, 38.752892],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.12769, 38.71035]
+        ]
+      },
+      "properties": {
+        "id_expl": "212",
+        "id_planeamento": "212",
+        "desig_comercial": "212 - Av. Infante Dom Henrique / Terminal de Cruzeiros",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 11,
+        "num_docas": 20,
+        "racio": 0.55,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:24Z",
+        "bbox": [-9.12769, 38.71035, -9.12769, 38.71035],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.180437, 38.763505]
+        ]
+      },
+      "properties": {
+        "id_expl": "517",
+        "id_planeamento": "517",
+        "desig_comercial": "517 - Rua Padre Américo",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 10,
+        "num_docas": 19,
+        "racio": 0.53,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:41Z",
+        "bbox": [-9.180437, 38.763505, -9.180437, 38.763505],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.1377, 38.7407]
+        ]
+      },
+      "properties": {
+        "id_expl": "432",
+        "id_planeamento": "432",
+        "desig_comercial": "432 - Praça de Londres",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 8,
+        "num_docas": 10,
+        "racio": 0.8,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:24Z",
+        "bbox": [-9.1377, 38.7407, -9.1377, 38.7407],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.177955, 38.764097]
+        ]
+      },
+      "properties": {
+        "id_expl": "518",
+        "id_planeamento": "518",
+        "desig_comercial": "518 - Avenida das Nações Unidas / Azinhaga da Torre do Fato",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 11,
+        "num_docas": 20,
+        "racio": 0.55,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:41Z",
+        "bbox": [-9.177955, 38.764097, -9.177955, 38.764097],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.15031, 38.75027]
+        ]
+      },
+      "properties": {
+        "id_expl": "462",
+        "id_planeamento": "462",
+        "desig_comercial": "462 - Campo Grande / Biblioteca Nacional",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 24,
+        "num_docas": 29,
+        "racio": 0.83,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:25Z",
+        "bbox": [-9.15031, 38.75027, -9.15031, 38.75027],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.175234, 38.702936]
+        ]
+      },
+      "properties": {
+        "id_expl": "238",
+        "id_planeamento": "238",
+        "desig_comercial": "238 - Rua de Cascais / Alcântara Mar",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 12,
+        "num_docas": 23,
+        "racio": 0.52,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:42Z",
+        "bbox": [-9.175234, 38.702936, -9.175234, 38.702936],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.16405, 38.75939]
+        ]
+      },
+      "properties": {
+        "id_expl": "483",
+        "id_planeamento": "483",
+        "desig_comercial": "483 - Rua Professor Francisco Lucas Pires ",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 4,
+        "num_docas": 15,
+        "racio": 0.27,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:25Z",
+        "bbox": [-9.16405, 38.75939, -9.16405, 38.75939],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.159369, 38.728263]
+        ]
+      },
+      "properties": {
+        "id_expl": "364",
+        "id_planeamento": "364",
+        "desig_comercial": "364 -Rua D.francisco M. de melo / Rua artilharia 1",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 3,
+        "num_docas": 14,
+        "racio": 0.21,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:42Z",
+        "bbox": [-9.159369, 38.728263, -9.159369, 38.728263],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.15424, 38.70673]
+        ]
+      },
+      "properties": {
+        "id_expl": "214",
+        "id_planeamento": "214",
+        "desig_comercial": "214 - Largo de Santos",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 2,
+        "num_docas": 24,
+        "racio": 0.08,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:26Z",
+        "bbox": [-9.15424, 38.70673, -9.15424, 38.70673],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.162216, 38.727094]
+        ]
+      },
+      "properties": {
+        "id_expl": "363",
+        "id_planeamento": "363",
+        "desig_comercial": "363 - Rua de campolide / Rua marques da fronteira",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 2,
+        "num_docas": 14,
+        "racio": 0.14,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:42Z",
+        "bbox": [-9.162216, 38.727094, -9.162216, 38.727094],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.14373, 38.70523]
+        ]
+      },
+      "properties": {
+        "id_expl": "208",
+        "id_planeamento": "208",
+        "desig_comercial": "208 - Cais das Pombas",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 14,
+        "num_docas": 22,
+        "racio": 0.64,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:26Z",
+        "bbox": [-9.14373, 38.70523, -9.14373, 38.70523],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.1691, 38.763204]
+        ]
+      },
+      "properties": {
+        "id_expl": "519",
+        "id_planeamento": "519",
+        "desig_comercial": "519 - Rua Prof. Pulido Valente / Rua Prof. Mário ",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 2,
+        "num_docas": 25,
+        "racio": 0.08,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:42Z",
+        "bbox": [-9.1691, 38.763204, -9.1691, 38.763204],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.16015, 38.73492]
+        ]
+      },
+      "properties": {
+        "id_expl": "410",
+        "id_planeamento": "410",
+        "desig_comercial": "410 - Rua da Mesquita / Universidade Nova de Lisboa",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 5,
+        "num_docas": 40,
+        "racio": 0.13,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:26Z",
+        "bbox": [-9.16015, 38.73492, -9.16015, 38.73492],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.165653, 38.717313]
+        ]
+      },
+      "properties": {
+        "id_expl": "352",
+        "id_planeamento": "352",
+        "desig_comercial": "352 - Rua Tomás da Anunciação / Rua Almeida e S.",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 0,
+        "num_docas": 17,
+        "racio": 0,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:43Z",
+        "bbox": [-9.165653, 38.717313, -9.165653, 38.717313],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.09825, 38.78414]
+        ]
+      },
+      "properties": {
+        "id_expl": "113",
+        "id_planeamento": "113",
+        "desig_comercial": "113 - Alameda dos Oceanos/ Passeio do Levante",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 9,
+        "num_docas": 14,
+        "racio": 0.64,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:27Z",
+        "bbox": [-9.09825, 38.78414, -9.09825, 38.78414],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.190007, 38.748901]
+        ]
+      },
+      "properties": {
+        "id_expl": "509",
+        "id_planeamento": "509",
+        "desig_comercial": "509 - Centro Comercial Fonte Nova",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 5,
+        "num_docas": 17,
+        "racio": 0.29,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:44Z",
+        "bbox": [-9.190007, 38.748901, -9.190007, 38.748901],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.09622, 38.78069]
+        ]
+      },
+      "properties": {
+        "id_expl": "112",
+        "id_planeamento": "112",
+        "desig_comercial": "112 - Alameda dos Oceanos / Passeio das Garças",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 2,
+        "num_docas": 14,
+        "racio": 0.14,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:27Z",
+        "bbox": [-9.09622, 38.78069, -9.09622, 38.78069],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.17386, 38.769044]
+        ]
+      },
+      "properties": {
+        "id_expl": "521",
+        "id_planeamento": "521",
+        "desig_comercial": "521 - Rua César de Oliveira / Rua Fernando Lopes Graça",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 6,
+        "num_docas": 22,
+        "racio": 0.27,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:45Z",
+        "bbox": [-9.17386, 38.769044, -9.17386, 38.769044],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.14872, 38.74877]
+        ]
+      },
+      "properties": {
+        "id_expl": "456",
+        "id_planeamento": "456",
+        "desig_comercial": "456 - Entrecampos / Av. das Forças Armadas",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 21,
+        "num_docas": 41,
+        "racio": 0.51,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:27Z",
+        "bbox": [-9.14872, 38.74877, -9.14872, 38.74877],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.190028, 38.745181]
+        ]
+      },
+      "properties": {
+        "id_expl": "506",
+        "id_planeamento": "506",
+        "desig_comercial": "506 - Rua Tenente Coronel Reibeiro dos Reis/Rua Conde de Almoster",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 1,
+        "num_docas": 17,
+        "racio": 0.06,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:46Z",
+        "bbox": [-9.190028, 38.745181, -9.190028, 38.745181],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.14949, 38.70662]
+        ]
+      },
+      "properties": {
+        "id_expl": "215",
+        "id_planeamento": "215",
+        "desig_comercial": "215 - Av. 24 de Julho",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 8,
+        "num_docas": 17,
+        "racio": 0.47,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:28Z",
+        "bbox": [-9.14949, 38.70662, -9.14949, 38.70662],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.174872, 38.76217]
+        ]
+      },
+      "properties": {
+        "id_expl": "516",
+        "id_planeamento": "516",
+        "desig_comercial": "516 - Rua Professor Carlos Teixeira / Rua Professor Simões Raposo",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 1,
+        "num_docas": 16,
+        "racio": 0.06,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:47Z",
+        "bbox": [-9.174872, 38.76217, -9.174872, 38.76217],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.13828, 38.71383]
+        ]
+      },
+      "properties": {
+        "id_expl": "222",
+        "id_planeamento": "222",
+        "desig_comercial": "222 - Praça da Figueira",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 14,
+        "num_docas": 30,
+        "racio": 0.47,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:28Z",
+        "bbox": [-9.13828, 38.71383, -9.13828, 38.71383],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.166589, 38.739427]
+        ]
+      },
+      "properties": {
+        "id_expl": "437",
+        "id_planeamento": "437",
+        "desig_comercial": "437 - Avenida Columbano Bordalo Pinheiro / Rua de Campolide",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 5,
+        "num_docas": 17,
+        "racio": 0.29,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:47Z",
+        "bbox": [-9.166589, 38.739427, -9.166589, 38.739427],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.188, 38.697]
+        ]
+      },
+      "properties": {
+        "id_expl": "205",
+        "id_planeamento": "205",
+        "desig_comercial": "205 - Av. Brasília / Cordoaria",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 3,
+        "num_docas": 10,
+        "racio": 0.3,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:28Z",
+        "bbox": [-9.188, 38.697, -9.188, 38.697],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.106709, 38.729739]
+        ]
+      },
+      "properties": {
+        "id_expl": "280",
+        "id_planeamento": "280",
+        "desig_comercial": "280 - HUB Criativo do Beato Poente",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 11,
+        "num_docas": 16,
+        "racio": 0.69,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:49Z",
+        "bbox": [-9.106709, 38.729739, -9.106709, 38.729739],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.20633, 38.6935]
+        ]
+      },
+      "properties": {
+        "id_expl": "203",
+        "id_planeamento": "203",
+        "desig_comercial": "203 - Padrão dos Descobrimentos",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 9,
+        "num_docas": 22,
+        "racio": 0.41,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:28Z",
+        "bbox": [-9.20633, 38.6935, -9.20633, 38.6935],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.219675, 38.695342]
+        ]
+      },
+      "properties": {
+        "id_expl": "231",
+        "id_planeamento": "231",
+        "desig_comercial": "231 - Largo Luís Alves Miguel / Rua Fernão Mendes Pinto",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 0,
+        "num_docas": 11,
+        "racio": 0,
+        "estado": "repair",
+        "update_date": "2024-07-06T14:35:49Z",
+        "bbox": [-9.219675, 38.695342, -9.219675, 38.695342],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.15724, 38.75491]
+        ]
+      },
+      "properties": {
+        "id_expl": "479",
+        "id_planeamento": "479",
+        "desig_comercial": "479 - Rua Professor Oliveira Marques",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 2,
+        "num_docas": 13,
+        "racio": 0.15,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:30Z",
+        "bbox": [-9.15724, 38.75491, -9.15724, 38.75491],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.159409, 38.738086]
+        ]
+      },
+      "properties": {
+        "id_expl": "438",
+        "id_planeamento": "438",
+        "desig_comercial": "438 - Avenida Columbano Bordalo Pinheiro / Praça de Espanha",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 0,
+        "num_docas": 22,
+        "racio": 0,
+        "estado": "repair",
+        "update_date": "2024-07-06T14:35:49Z",
+        "bbox": [-9.159409, 38.738086, -9.159409, 38.738086],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.15503, 38.75587]
+        ]
+      },
+      "properties": {
+        "id_expl": "480",
+        "id_planeamento": "480",
+        "desig_comercial": "480 - Faculdade de Ciências",
+        "tipo_servico_niveis": "B",
+        "num_bicicletas": 1,
+        "num_docas": 25,
+        "racio": 0.04,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:30Z",
+        "bbox": [-9.15503, 38.75587, -9.15503, 38.75587],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.116342, 38.765588]
+        ]
+      },
+      "properties": {
+        "id_expl": "134",
+        "id_planeamento": "134",
+        "desig_comercial": "134 - Praça Cidade do Luso",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 12,
+        "num_docas": 20,
+        "racio": 0.6,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:31Z",
+        "bbox": [-9.116342, 38.765588, -9.116342, 38.765588],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.111745, 38.769665]
+        ]
+      },
+      "properties": {
+        "id_expl": "150",
+        "id_planeamento": "150",
+        "desig_comercial": "150 - Avenida Dr. Francisco Luis Gomes / Go Fit",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 4,
+        "num_docas": 17,
+        "racio": 0.24,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:32Z",
+        "bbox": [-9.111745, 38.769665, -9.111745, 38.769665],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.110767, 38.768137]
+        ]
+      },
+      "properties": {
+        "id_expl": "131",
+        "id_planeamento": "131",
+        "desig_comercial": "131 - Avenida de Berlim / Praça Baden Powell",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 4,
+        "num_docas": 21,
+        "racio": 0.19,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:33Z",
+        "bbox": [-9.110767, 38.768137, -9.110767, 38.768137],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.157235, 38.762584]
+        ]
+      },
+      "properties": {
+        "id_expl": "551",
+        "id_planeamento": "551",
+        "desig_comercial": "551 - Rua Francisco Stromp / Alameda das Linhas de",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 1,
+        "num_docas": 20,
+        "racio": 0.05,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:34Z",
+        "bbox": [-9.157235, 38.762584, -9.157235, 38.762584],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.158298, 38.768683]
+        ]
+      },
+      "properties": {
+        "id_expl": "554",
+        "id_planeamento": "554",
+        "desig_comercial": "554 - Alameda das Linhas de Torres / Rua Ladislau",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 13,
+        "num_docas": 27,
+        "racio": 0.48,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:34Z",
+        "bbox": [-9.158298, 38.768683, -9.158298, 38.768683],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.118689, 38.764067]
+        ]
+      },
+      "properties": {
+        "id_expl": "135",
+        "id_planeamento": "135",
+        "desig_comercial": "135 - Avenida Cidade de Lourenço Marques / Vale do",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 6,
+        "num_docas": 20,
+        "racio": 0.3,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:35Z",
+        "bbox": [-9.118689, 38.764067, -9.118689, 38.764067],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.137125, 38.70878]
+        ]
+      },
+      "properties": {
+        "id_expl": "220",
+        "id_planeamento": "220",
+        "desig_comercial": "220 - Rua do Comercio",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 14,
+        "num_docas": 20,
+        "racio": 0.7,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:36Z",
+        "bbox": [-9.137125, 38.70878, -9.137125, 38.70878],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.136456, 38.711888]
+        ]
+      },
+      "properties": {
+        "id_expl": "226",
+        "id_planeamento": "226",
+        "desig_comercial": "226 - Rua dos Fanqueiros",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 0,
+        "num_docas": 13,
+        "racio": 0,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:36Z",
+        "bbox": [-9.136456, 38.711888, -9.136456, 38.711888],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.114505, 38.762829]
+        ]
+      },
+      "properties": {
+        "id_expl": "137",
+        "id_planeamento": "137",
+        "desig_comercial": "137 - Rua Cidade de Bissau (entrada SPACIO)",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 22,
+        "num_docas": 33,
+        "racio": 0.67,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:36Z",
+        "bbox": [-9.114505, 38.762829, -9.114505, 38.762829],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.135295, 38.721721]
+        ]
+      },
+      "properties": {
+        "id_expl": "311",
+        "id_planeamento": "311",
+        "desig_comercial": "311 - Avenida Almirante Reis Nº14",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 3,
+        "num_docas": 11,
+        "racio": 0.27,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:36Z",
+        "bbox": [-9.135295, 38.721721, -9.135295, 38.721721],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.135956, 38.728049]
+        ]
+      },
+      "properties": {
+        "id_expl": "313",
+        "id_planeamento": "313",
+        "desig_comercial": "313 - Rua Frei Francisco Foreiro / Rua de Arroios",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 4,
+        "num_docas": 14,
+        "racio": 0.29,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:37Z",
+        "bbox": [-9.135956, 38.728049, -9.135956, 38.728049],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.160248, 38.770657]
+        ]
+      },
+      "properties": {
+        "id_expl": "555",
+        "id_planeamento": "555",
+        "desig_comercial": "555 - Alameda das Linhas de Torres",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 17,
+        "num_docas": 33,
+        "racio": 0.52,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:38Z",
+        "bbox": [-9.160248, 38.770657, -9.160248, 38.770657],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.138828, 38.710191]
+        ]
+      },
+      "properties": {
+        "id_expl": "221",
+        "id_planeamento": "221",
+        "desig_comercial": "221 - Rua do Crucifixo / Rua São Nicolau",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 8,
+        "num_docas": 15,
+        "racio": 0.53,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:38Z",
+        "bbox": [-9.138828, 38.710191, -9.138828, 38.710191],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.156435, 38.731134]
+        ]
+      },
+      "properties": {
+        "id_expl": "366",
+        "id_planeamento": "366",
+        "desig_comercial": "366 - Palacio da justiça",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 3,
+        "num_docas": 30,
+        "racio": 0.1,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:39Z",
+        "bbox": [-9.156435, 38.731134, -9.156435, 38.731134],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.134847, 38.720733]
+        ]
+      },
+      "properties": {
+        "id_expl": "310",
+        "id_planeamento": "310",
+        "desig_comercial": "310 - Rua Pina Manique / Largo do Intendente ",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 5,
+        "num_docas": 17,
+        "racio": 0.29,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:39Z",
+        "bbox": [-9.134847, 38.720733, -9.134847, 38.720733],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.134802, 38.724869]
+        ]
+      },
+      "properties": {
+        "id_expl": "312",
+        "id_planeamento": "312",
+        "desig_comercial": "312 - Rua Álvaro Coutinho / Avenida Almirante Reis",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 10,
+        "num_docas": 18,
+        "racio": 0.56,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:39Z",
+        "bbox": [-9.134802, 38.724869, -9.134802, 38.724869],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.15535, 38.767114]
+        ]
+      },
+      "properties": {
+        "id_expl": "553",
+        "id_planeamento": "553",
+        "desig_comercial": "553 - Rua Luis Pastor de Macedo / Rua Tobis Portuguesa",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 2,
+        "num_docas": 12,
+        "racio": 0.17,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:39Z",
+        "bbox": [-9.15535, 38.767114, -9.15535, 38.767114],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.160992, 38.72392]
+        ]
+      },
+      "properties": {
+        "id_expl": "361",
+        "id_planeamento": "361",
+        "desig_comercial": "361 - Amoreiras Shopping Center",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 16,
+        "num_docas": 31,
+        "racio": 0.52,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:40Z",
+        "bbox": [-9.160992, 38.72392, -9.160992, 38.72392],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.159469, 38.72437]
+        ]
+      },
+      "properties": {
+        "id_expl": "362",
+        "id_planeamento": "362",
+        "desig_comercial": "362 - Avenida Eng. Duarte Pacheco",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 18,
+        "num_docas": 40,
+        "racio": 0.45,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:40Z",
+        "bbox": [-9.159469, 38.72437, -9.159469, 38.72437],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.193024, 38.744727]
+        ]
+      },
+      "properties": {
+        "id_expl": "507",
+        "id_planeamento": "507",
+        "desig_comercial": "507 - Rua José dos Santos Pereira / Rua Conde de Almoster",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 1,
+        "num_docas": 17,
+        "racio": 0.06,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:43Z",
+        "bbox": [-9.193024, 38.744727, -9.193024, 38.744727],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.185588, 38.75736]
+        ]
+      },
+      "properties": {
+        "id_expl": "514",
+        "id_planeamento": "514",
+        "desig_comercial": "514 - Avenida do Colegio Militar / Rua Adelaide Cabete",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 3,
+        "num_docas": 17,
+        "racio": 0.18,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:44Z",
+        "bbox": [-9.185588, 38.75736, -9.185588, 38.75736],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.182262, 38.699093]
+        ]
+      },
+      "properties": {
+        "id_expl": "237",
+        "id_planeamento": "237",
+        "desig_comercial": "237 - Avenida da India / Praca das Industrias",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 8,
+        "num_docas": 30,
+        "racio": 0.27,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:45Z",
+        "bbox": [-9.182262, 38.699093, -9.182262, 38.699093],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.162447, 38.739395]
+        ]
+      },
+      "properties": {
+        "id_expl": "436",
+        "id_planeamento": "436",
+        "desig_comercial": "436 - Instituto Português de Oncologia",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 5,
+        "num_docas": 17,
+        "racio": 0.29,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:45Z",
+        "bbox": [-9.162447, 38.739395, -9.162447, 38.739395],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.19216, 38.758691]
+        ]
+      },
+      "properties": {
+        "id_expl": "513",
+        "id_planeamento": "513",
+        "desig_comercial": "513 - Rua Guiomar Torresão/Metro de Carnide",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 9,
+        "num_docas": 20,
+        "racio": 0.45,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:46Z",
+        "bbox": [-9.19216, 38.758691, -9.19216, 38.758691],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.176365, 38.741406]
+        ]
+      },
+      "properties": {
+        "id_expl": "502",
+        "id_planeamento": "502",
+        "desig_comercial": "502 - Rua São Domingos de Benfica / Rua Francisco Gentil Martins",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 4,
+        "num_docas": 16,
+        "racio": 0.25,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:48Z",
+        "bbox": [-9.176365, 38.741406, -9.176365, 38.741406],
+        "name": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-9.149334, 38.724954]
+        ]
+      },
+      "properties": {
+        "id_expl": "307",
+        "id_planeamento": "307",
+        "desig_comercial": "307 - Marquês de Pombal",
+        "tipo_servico_niveis": "A",
+        "num_bicicletas": 13,
+        "num_docas": 33,
+        "racio": 0.39,
+        "estado": "active",
+        "update_date": "2024-07-06T14:35:21Z",
+        "bbox": [-9.149334, 38.724954, -9.149334, 38.724954],
+        "name": null
+      }
+    }
+  ],
+  "crs": {
+    "type": "name",
+    "properties": {
+      "id_expl": null,
+      "id_planeamento": null,
+      "desig_comercial": null,
+      "tipo_servico_niveis": null,
+      "num_bicicletas": 0,
+      "num_docas": 0,
+      "racio": 0,
+      "estado": null,
+      "update_date": "0001-01-01T00:00:00",
+      "bbox": null,
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  },
+  "bbox": [-9.219675, 38.6935, -9.09235, 38.793]
+}
